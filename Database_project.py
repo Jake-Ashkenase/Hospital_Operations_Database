@@ -1,16 +1,7 @@
 """
-Database design
 Jake Ashkenase
 Samuel Platzman
-Final Project
 """
-
-"""
-things to fix 
-- pycharm doesnt always print out the whole dataframe during reads
-- make the user log in 
-"""
-
 
 
 import pymysql
